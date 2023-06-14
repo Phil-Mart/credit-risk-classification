@@ -51,3 +51,8 @@ This model tests and validates credit risk for potential future loans using Supe
 * Discerning potential high-risk loan holders is of most importance, because those accounts are responsible for the majority of the bank's lost earning potential. This single category, when managed correctly, can increase the institution's bottom line by over 1000 basis points. 
 
 The Linear Regression model should be implemented immediately to help assist associates give properly profitable loans to potential customers. 
+
+
+# [Linkedin Profile](linkedin.com/in/phil-mart) 
+# Email: [Phillip Martinez](PhillipMartinez@my.unt.edu) 
+

@@ -13,7 +13,6 @@ This model tests and validates credit risk for potential future loans using Supe
 * I saved the predictions on the testing data labels by using X_test and the fitted model.
 * Afterwards, I evaluated the model's performance by generating a confusion matrix and classification report, as well as answering how well the logistic regression predicted the healthy and high-risk loan labels.
 
-Step 3: Write a Credit Risk Analysis Report
+# Step 3: Write a Credit Risk Analysis Report
 
-Provide an overview that explains the purpose of this analysis.
-Describe the accuracy, precision, and recall scores of the machine learning model, and summarize the results from the machine learning model and include any justification for recommending/not recommending the model to the company.
+Attached you will find the analysis report, used to describe the specific findings to be shared with stakeholders. 

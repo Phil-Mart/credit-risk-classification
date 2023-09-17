@@ -1,21 +1,26 @@
-### credit-risk-classification
+# credit-risk-classification
 This model tests and validates credit risk for potential future loans using Supervised Learning techniques to ensure the highest accuracy. This process has important business implications as it relates to an increased profitability within the loan and interest segment of financial firms. 
 
-# Step 1: Split the Data into Training and Testing Sets
+## Step 1: Split the Data into Training and Testing Sets
 
 * This code reads the data from the Resources folder into a Pandas DataFrame.
 * From there I created the labels set "y" from the loan_status column and created the features "X" DataFrame from the remaining columns. 
 * These values were used to split the data into training and testing datasets using train_test_split. 
 
-# Step 2: Create a Logistic Regression Model
+![Screen Shot 2023-09-16 at 9 40 43 PM](https://github.com/Phil-Mart/credit-risk-classification/assets/120279988/b6e6b6c6-3af4-48ec-b10a-7aeb8d4e8ccb)
+
+## Step 2: Create a Logistic Regression Model
 
 * I then fit a logistic regression model by using the training data (X_train and y_train).
 * I saved the predictions on the testing data labels by using X_test and the fitted model.
 * Afterwards, I evaluated the model's performance by generating a confusion matrix and classification report, as well as answering how well the logistic regression predicted the healthy and high-risk loan labels.
 
-# Step 3: Write a Credit Risk Analysis Report
+![Screen Shot 2023-09-16 at 9 41 58 PM](https://github.com/Phil-Mart/credit-risk-classification/assets/120279988/9277b364-e4db-49f9-bff4-ce3145c6fb88)
 
-# Credit Risk: Supervised Model Report 
+
+## Step 3: Write a Credit Risk Analysis Report
+
+## Credit Risk: Supervised Model Report 
 
 ## Overview of the Analysis
 
